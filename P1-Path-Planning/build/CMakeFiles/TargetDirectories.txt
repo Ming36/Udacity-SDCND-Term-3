@@ -1,3 +1,0 @@
-/home/sahil/Udacity-SDCND-Term-3/P1-Path-Planning/build/CMakeFiles/edit_cache.dir
-/home/sahil/Udacity-SDCND-Term-3/P1-Path-Planning/build/CMakeFiles/rebuild_cache.dir
-/home/sahil/Udacity-SDCND-Term-3/P1-Path-Planning/build/CMakeFiles/path_planning.dir
